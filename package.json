@@ -23,7 +23,9 @@
   "homepage": "https://github.com/Bruno-Felix/2020.1-Vamos_Cuidar#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.10.6",
+    "mongoose": "^5.10.6"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.4"
   }
 }
